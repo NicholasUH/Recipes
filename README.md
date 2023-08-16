@@ -1,4 +1,4 @@
 # Recipes
-This is my recipe project built using basic HTML as part of the Odin Project.
+This repository contains my recipes project for the Odin Project where I demonstrated my ability to use basic HTML taught by the course.
 
-Live Site:https://nicholasuh.github.io/Recipes/
+Live Site: https://nicholasuh.github.io/Recipes/
